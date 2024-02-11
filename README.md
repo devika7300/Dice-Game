@@ -21,3 +21,6 @@ Engaging Gameplay: With each roll, feel the anticipation as you aim to match or 
 **Scoring:**
 Perfect Match: If the sum of the numbers rolled exactly matches your bet, you're in luck! You'll receive 100 points for your precise prediction.
 Close Call: If the sum of the rolled numbers is within two units of your bet (either above or below), you'll still earn points for being close. A sum within this range grants you 50 points, rewarding your near-perfect guess.
+
+<img width="300" alt="img" src="https://github.com/devika7300/Dice-Game/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-02-11%20at%2013.33.48.png">
+
